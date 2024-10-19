@@ -13,7 +13,7 @@ class Cctv:
         print('Видеонаблюдение включено.')
 
     def stop_cctv(self):
-        print('Выдеонаблюдение выключено.')
+        print('Видеонаблюдение выключено.')
 
 
 class AccessControl:
